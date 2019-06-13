@@ -38,7 +38,7 @@ TARGET_SCREEN_HEIGHT := 2280
 TARGET_SCREEN_WIDTH := 1080
 
 # Inherit from nubia sdm845-common
-$(call inherit-product, device/nubia/sdm845-common/common.mk)
+$(call inherit-product, device/nubia/sdm845-common/sdm845.mk)
 
 # Inherit from vendor blobs
 #$(call inherit-product, vendor/nubia/nx616j/nx616j-vendor.mk)
