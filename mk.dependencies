@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_device_nubia_sdm845-common",
+    "target_path": "device/nubia/sdm845-common"
+  }
+]
